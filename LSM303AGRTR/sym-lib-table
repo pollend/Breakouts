@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name parts)(type Legacy)(uri ./)(options "")(descr ""))
+  (lib (name LSM303AGRTR)(type Legacy)(uri /home/michaelpollind/projects/Breakouts/LSM303AGRTR/LSM303AGRTR.lib)(options "")(descr ""))
+)
