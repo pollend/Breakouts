@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RN4020)(type Legacy)(uri /home/michaelpollind/projects/Breakouts/RN4020/RN4020.lib)(options "")(descr ""))
+)
